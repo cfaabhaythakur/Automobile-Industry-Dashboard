@@ -1,4 +1,4 @@
-# Automobile-Industry-Dashboard# 
+Automobile-Industry-Dashboard
 
 🚗 Automobile Industry Dashboard – Power BI Project
 An interactive dashboard built using Microsoft Power BI to analyze the performance and trends in the automobile industry.
@@ -17,6 +17,8 @@ Tools & Technologies
 
 ## 📷 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/ec237f28-a1c8-4315-b71a-612c511db181)
+![image](https://github.com/user-attachments/assets/76e3dd55-6309-482a-ad34-ab4b13fe41b7)
+
 
 Features
 - Interactive slicers for filtering by brand/year/region
