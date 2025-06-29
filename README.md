@@ -24,10 +24,7 @@ Tools & Technologies
 - **DAX** for calculations and KPIs
 - Data: Dummy data in Excel/CSV (industry-simulated)
 
-Dashboard Previews
-![Auto Sales](./images/auto-dashboard.png)
-![Factory Overview](./images/factory-dashboard.png)
-![Product Insights](./images/product-insights.png)
+
 
 Business Use Case
 This dashboard can be used by automobile manufacturers, market analysts, and executives to:
@@ -40,7 +37,7 @@ Feedback & Contributions
 Open to feedback, suggestions, and collaborations!
 
 
-## 📷 Dashboard Preview
+Dashboard Preview
 ![image](https://github.com/user-attachments/assets/ec237f28-a1c8-4315-b71a-612c511db181)
 ![image](https://github.com/user-attachments/assets/76e3dd55-6309-482a-ad34-ab4b13fe41b7)
 
